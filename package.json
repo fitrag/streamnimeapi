@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  },
+  "name": "streamnimeapi",
+  "version": "1.0.0",
+  "description": "api anime",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "streamnimeapi"
+  },
+  "keywords": [
+    "api",
+    "anime",
+    "anime",
+    "api"
+  ],
+  "author": "Fadila Fitra Kusuma Jaya",
+  "license": "ISC"
+}
